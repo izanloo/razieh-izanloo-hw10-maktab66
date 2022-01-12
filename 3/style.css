@@ -1,0 +1,22 @@
+.my-name{
+
+    margin-top: -60px !important;
+    
+}
+
+body{
+    background-color: #f1f1f1;
+}
+.text-green{
+    color:#009688;
+}
+.bg-green{
+    background-color:#009688;
+}
+.progress{
+    height:25px;
+}
+
+.shadow-sm{
+   box-shadow:  0 0.35rem 0.25rem rgba(0,0,0,.075)!important;
+}
